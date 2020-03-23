@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9248b5b-7e9f-4e8d-9446-c746e7864be9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SV224IxNX6BfDnBgAgiO5u3P2E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\KafkaLearning\SalesDataStreaming\src\main\java\utils" />
+      <recent name="D:\Github\KafkaLearning\KTableAggregationTest\src\main\java" />
+      <recent name="D:\Github\KafkaLearning\src\main\java\com\github\kafka\producer\Producer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mappers" />
+      <recent name="util.serializer" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="serdes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WindowOperations">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.ktable.Application" />
+      <module name="SalesDataStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.ktable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.kstreamktable.Application" />
+      <module name="SalesDataStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.kstreamktable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.kstream.Application" />
+      <module name="SalesDataStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.kstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTableVsKStreaming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KTableVsKStreaming" />
+      <module name="KTableAggregationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.windows.WindowOperations" />
+      <module name="SalesDataStreaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WindowOperations" />
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.KTableVsKStreaming" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9248b5b-7e9f-4e8d-9446-c746e7864be9" name="Default Changelist" comment="" />
+      <created>1571634231945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571634231945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Intentions" timestamp="1575832255975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1575832255975" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1575801868421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1575801868421" />
+    <state x="2457" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582273536632">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="409" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577787555543" />
+    <state x="2457" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582273536632" />
+    <state x="491" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582235380469" />
+    <state x="535" y="29" key="#com.intellij.ide.util.MemberChooser" timestamp="1582472420760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577979907302" />
+    <state x="2505" y="36" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579613964670" />
+    <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1579636864164" />
+    <state x="535" y="29" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582190275264" />
+    <state x="2505" y="36" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582294480800" />
+    <state x="535" y="29" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582472420760" />
+    <state x="492" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575837974709">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1575837974709" />
+    <state x="2419" y="430" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579609454908">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2419" y="430" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579609454908" />
+    <state x="2518" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579609457111">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2518" y="385" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579609457111" />
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582064474911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1582064474911" />
+    <state x="445" y="105" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581842438346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2407" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579609650334" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1577468170148" />
+    <state x="445" y="105" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581842438346" />
+    <state x="505" y="115" key="FileChooserDialogImpl" timestamp="1581859987333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577784412536" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581366770438" />
+    <state x="505" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581859987333" />
+    <state width="1537" height="767" key="GridCell.Tab.-1.bottom" timestamp="1582205850645">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1537" height="767" key="GridCell.Tab.-1.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582205850645" />
+    <state width="1537" height="767" key="GridCell.Tab.-1.center" timestamp="1582205850645">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1537" height="767" key="GridCell.Tab.-1.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582205850645" />
+    <state width="1537" height="767" key="GridCell.Tab.-1.left" timestamp="1582205850645">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1537" height="767" key="GridCell.Tab.-1.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582205850645" />
+    <state width="1537" height="767" key="GridCell.Tab.-1.right" timestamp="1582205850645">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1537" height="767" key="GridCell.Tab.-1.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582205850645" />
+    <state width="1537" height="767" key="GridCell.Tab.0.bottom" timestamp="1582476010924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616545" />
+    <state width="1281" height="624" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578262364404" />
+    <state width="1536" height="774" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151303" />
+    <state width="1537" height="767" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582295556978" />
+    <state width="1537" height="767" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582476010924" />
+    <state width="1537" height="767" key="GridCell.Tab.0.center" timestamp="1582476010924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616544" />
+    <state width="1281" height="624" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578262364403" />
+    <state width="1536" height="774" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151303" />
+    <state width="1537" height="767" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582295556978" />
+    <state width="1537" height="767" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582476010924" />
+    <state width="1537" height="767" key="GridCell.Tab.0.left" timestamp="1582476010924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616544" />
+    <state width="1281" height="624" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578262364403" />
+    <state width="1536" height="774" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151302" />
+    <state width="1537" height="767" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582295556978" />
+    <state width="1537" height="767" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582476010924" />
+    <state width="1537" height="767" key="GridCell.Tab.0.right" timestamp="1582476010924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616544" />
+    <state width="1281" height="624" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578262364404" />
+    <state width="1536" height="774" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151303" />
+    <state width="1537" height="767" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582295556978" />
+    <state width="1537" height="767" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582476010924" />
+    <state width="1637" height="852" key="GridCell.Tab.1.bottom" timestamp="1582476010918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616545" />
+    <state width="1536" height="774" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151305" />
+    <state width="1637" height="852" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582294939299" />
+    <state width="1637" height="852" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582476010918" />
+    <state width="1637" height="852" key="GridCell.Tab.1.center" timestamp="1582476010918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616545" />
+    <state width="1536" height="774" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151304" />
+    <state width="1637" height="852" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582294939299" />
+    <state width="1637" height="852" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582476010918" />
+    <state width="1637" height="852" key="GridCell.Tab.1.left" timestamp="1582476010918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616545" />
+    <state width="1536" height="774" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151303" />
+    <state width="1637" height="852" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582294939299" />
+    <state width="1637" height="852" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582476010918" />
+    <state width="1637" height="852" key="GridCell.Tab.1.right" timestamp="1582476010918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="624" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577980616545" />
+    <state width="1536" height="774" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582209151304" />
+    <state width="1637" height="852" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582294939299" />
+    <state width="1637" height="852" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582476010918" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1581842061088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1581842061088" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1575803873109">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575803873109" />
+    <state x="0" y="0" width="1269" height="737" key="dock-window-1" timestamp="1579612544154">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="1269" height="737" key="dock-window-1/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579612544154" />
+    <state x="25" y="0" width="1269" height="737" key="dock-window-2" timestamp="1579610869299">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="25" y="0" width="1269" height="737" key="dock-window-2/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579610869299" />
+    <state x="0" y="0" width="1269" height="687" key="dock-window-3" timestamp="1581368633835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="1269" height="737" key="dock-window-3/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1579613678634" />
+    <state x="0" y="0" width="1269" height="687" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1581368633835" />
+    <state x="334" y="77" width="612" height="526" key="find.popup" timestamp="1577787527931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="334" y="77" width="612" height="526" key="find.popup/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577787527931" />
+    <state x="109" y="44" key="new project wizard" timestamp="1581778421078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="91" y="36" key="new project wizard/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1579604446826" />
+    <state x="109" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581778421078" />
+    <state x="2310" y="224" key="run.anything.popup" timestamp="1582293183618">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1577798473557" />
+    <state x="357" y="183" width="672" height="677" key="run.anything.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1582194531490" />
+    <state x="2310" y="224" key="run.anything.popup/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582293183618" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582231763044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582231763044" />
+    <state x="2482" y="416" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582113018954">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2482" y="416" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1582113018954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/github/kafka/producer/Producer/serdes/StreamsSerdes.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/state/OccurancesTransformer.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/state/OccurancesTransformer.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/aggregation/AggOnKTable/AvgUnitsValue.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/aggregation/AggOnKTable/AvgUnitsValue.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/aggregation/AggOnKTable/AvgUnitsValue.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/aggregation/AggOnKTable/RegionAggregate.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/windowsaggregartion/SessionTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/state/Occurances.java</url>
+          <line>75</line>
+          <properties class="model.state.Occurances" method="addCountryOccuraces">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SalesDataStreaming/src/main/java/model/aggregation/AggOnKTable/AvgUnitsValue.java</url>
+          <line>50</line>
+          <properties class="model.aggregation.AggOnKTable.AvgUnitsValue" method="subtract">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
